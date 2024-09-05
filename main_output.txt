@@ -1,0 +1,20 @@
+
+        N
+       N  N
+      N    N
+NNNNNN      NNNNNN
+ N    T    T    N
+  N     B      N
+   N    N    N
+  N  N      N  N
+N               N
+
+RRRRRRR  CCCCCCCC  CCCCCCCC    
+RR  RR   CCC       CCC
+RRRRRR   CCC       CCC
+RR   RR  CCC       CCC 
+RR   RR  CCCCCCCC  CCCCCCCC
+
+
+
+** Process exited - Return Code: 0 **
